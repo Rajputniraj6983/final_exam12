@@ -1,16 +1,16 @@
-# final_exam1
 
-A new Flutter project.
 
-## Getting Started
+### Screenshorts
+<p align ='center'>
+  <img src='https://github.com/user-attachments/assets/e57b9f9d-d6ef-4739-a5a8-daccd65d9220' width=240> 
+  <img src='https://github.com/user-attachments/assets/9e14867b-066d-4736-a496-c66780df83c5' width=240> 
+  <img src='https://github.com/user-attachments/assets/e6e9ace3-43d7-4bf2-ac8c-64a3544e4bde' width=240> 
+ 
 
-This project is a starting point for a Flutter application.
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+app video : [video](https://github.com/user-attachments/assets/fcfcbbed-3db8-46a2-b173-c3bb34b6c6ab)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
